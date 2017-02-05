@@ -1,0 +1,15 @@
+{
+  "name": "floyd-lyrics-displayer",
+  "version": "0.0.1",
+  "description": "Example JSON implementation. Displays Pink Floyd lyrics",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [],
+  "author": "Jake Stanger",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
